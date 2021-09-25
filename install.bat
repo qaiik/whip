@@ -1,1 +1,2 @@
-echo 1 lol
+@echo off
+echo installing whip
